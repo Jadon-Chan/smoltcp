@@ -3,3 +3,5 @@ Cargo.lock
 *.pcap
 /*.md
 *.log
+/doc/slides
+.vscode
